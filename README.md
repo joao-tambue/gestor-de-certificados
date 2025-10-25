@@ -5,7 +5,7 @@ Esse é um projeto do curso de Angular, um dos conteúdos disponíveis para alun
 
 ---
 
-![App Screenshot](./public/thumbnail.png)
+![App Screenshot](./public/Thumbnail.png)
 
 | Technology     | Descrição                                                     | Icon                                                                                       |
 | -------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
