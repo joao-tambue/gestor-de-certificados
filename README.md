@@ -1,4 +1,4 @@
-# 📰 Gestão de certificados
+# Gestão de certificados
 
 O projeto **Gestão de certificados** é uma aplicação desktop de gestão de certificados, com geração, listagem e preview de certificações.
 Esse é um projeto do curso de Angular, um dos conteúdos disponíveis para alunos da Rocketseat.
@@ -6,6 +6,8 @@ Esse é um projeto do curso de Angular, um dos conteúdos disponíveis para alun
 ---
 
 ![App Screenshot](./public/Thumbnail.png)
+
+## Tecnologias usadas
 
 | Technology     | Descrição                                                     | Icon                                                                                       |
 | -------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
