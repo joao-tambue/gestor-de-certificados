@@ -1,17 +1,11 @@
+import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
+import { RouterLink, RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-navbar',
-  imports: [],
+  imports: [RouterLink, RouterModule, CommonModule],
   templateUrl: './navbar.html',
-  styleUrl: './navbar.css',
+  styleUrls: ['./navbar.css'],
 })
-export class Navbar {
-  ngOnInit(): void {
-    this.mensagem();
-  }
-
-  mensagem () {
-    console.log('Meu componente navbar inicializado ( dentro de uma função)')
-  }
-}
+export class Navbar {}
